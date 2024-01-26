@@ -3,7 +3,7 @@
 
 - 🔭 Focusing on artificial intelligence and information internetworks **Georgia Tech**
 
-- 🆒 Currently working as a Supply Information Engineer at **Vanderlande** and as a Software Engineer at **Hexlabs**
+- 🆒 Currently working as a Technology Director and Software Engineer at **Hexlabs**. 
 
 - 💪 Strongest skills consists of **Python** and **java**
 
