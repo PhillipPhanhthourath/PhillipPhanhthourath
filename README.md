@@ -3,7 +3,7 @@
 
 - 🔭 Focusing on artificial intelligence and information internetworks **Georgia Tech**
 
-- 🆒 Currently working as a Software Engineer Intern at Capital One and the Technology Director and Software Engineer at **Hexlabs**. 
+- 🆒 Currently working as a Software Engineer Intern at **Capital One** and the Technology Director and Software Engineer at **Hexlabs**. 
 
 - 💪 Strongest skills consists of **Python** and **java**
 
