@@ -11,8 +11,8 @@
 
 - 🔭 **Focus Areas**: Artificial Intelligence & Information Internetworks @ **Georgia Tech**
 - 🛠️ **Current Roles**:
-  - **Previous Software Engineer Intern** @ [Capital One](https://www.capitalone.com/)
-  - **Technology Director & Software Engineer** @ [Hexlabs](https://hexlabs.org/)
+  - **Previous Software Engineer Intern** @ [Capital One](https://www.capitalone.com/) and [Vanderlande](https://www.vanderlande.com/us/)
+  - **Previous Technology Director & Software Engineer** @ [Hexlabs](https://hexlabs.org/)
 - 💪 **Skills**: Proficient in **Python** and **Java**, with a passion for tackling complex problems.
 - 🌱 **Learning**: Exploring advanced concepts in **Machine Learning**, **Distributed Systems**, and **Backend Development**.
 - 💌 **Contact**: Reach me at **psp33@gatech.edu**
